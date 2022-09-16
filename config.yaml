@@ -1,4 +1,4 @@
-baseURL: https://yantang01.github.io
+baseURL: https://yantang.netlify.app/
 # baseURL: https://www.sulvblog.cn  # 绑定的域名
 languageCode: en-ca # en-us
 title: Yan Tang | Home
@@ -39,7 +39,7 @@ languages:
       enabled: true
       title: Yan Tang
       subtitle: Hello, World
-      imageUrl: "images/IMG_6492.jpeg" #图片放在static/img/Q.gif
+      imageUrl: "/images/IMG_6492.jpeg" #图片放在static/img/Q.gif
       imageTitle: Selfie
       imageWidth: 150
       imageHeight: 150
@@ -163,11 +163,11 @@ params:
   #         SiteVerificationTag: "XYZabc"
 
   assets:
-    favicon: "images/icons.png"
-    favicon16x16: "images/icons.png"
-    favicon32x32: "images/icons.png"
-    apple_touch_icon: "images/icons.png"
-    safari_pinned_tab: "images/icons.png"
+    favicon: "/images/icons.png"
+    favicon16x16: "/images/icons.png"
+    favicon32x32: "/images/icons.png"
+    apple_touch_icon: "/images/icons.png"
+    safari_pinned_tab: "/images/icons.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
