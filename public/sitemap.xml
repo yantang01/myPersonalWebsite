@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://yantang.netlify.app/about/</loc>
     <lastmod>2022-09-15T15:35:00-04:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://yantang.netlify.app/resume/</loc>
     <lastmod>2022-09-15T13:55:32-04:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://yantang.netlify.app/projects/</loc>
+    <lastmod>2022-09-15T13:55:32-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://yantang.netlify.app/archives/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://yantang.netlify.app/categories/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://yantang.netlify.app/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yantang.netlify.app/series/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://yantang.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://yantang.netlify.app/</loc>
   </url>
 </urlset>

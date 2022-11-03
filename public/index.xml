@@ -2,27 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yan Tang | Home</title>
-    <link>/</link>
+    <link>https://yantang.netlify.app/</link>
     <description>Recent content on Yan Tang | Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://yantang.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 👋</title>
-      <link>/about/</link>
+      <link>https://yantang.netlify.app/about/</link>
       <pubDate>Thu, 15 Sep 2022 15:35:00 -0400</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://yantang.netlify.app/about/</guid>
       <description>Hello, welcome to my corner of the internet!
 I&amp;rsquo;m Yan. I&amp;rsquo;m a third-year student studying Computer Science at Carleton University in Ottawa, and this is not my first degree. My previous degree was a Bachelor of Commerce obtained in China, where I was born and raised.
 When I came to Canada in 2017, I chose to study for an MBA to build fundamental business skills. After that, I had three years of work experience in the Finance/Accounting industry.</description>
     </item>
     
     <item>
-      <title>Projects 👩🏻‍💻</title>
-      <link>/projects/</link>
+      <title>Coming soon 🚧 </title>
+      <link>https://yantang.netlify.app/resume/</link>
       <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://yantang.netlify.app/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects 👩🏻‍💻</title>
+      <link>https://yantang.netlify.app/projects/</link>
+      <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
+      
+      <guid>https://yantang.netlify.app/projects/</guid>
       <description>Side Projects 💫 My Personal Website HTML, CSS, JavaScript, Hugo, Netlify (GitHub)
 The website you are looking at right now! It&amp;rsquo;s a beautiful (at least in my opinion 🙂), clean, fast, and responsive site built using Hugo with PaperMod theme. YelpCamp Web App HTML, CSS, JavaScript, Express, Node, MongDB (Website | GitHub)
 This is my first project, which I did after completing the Web Developer Bootcamp by Colt Steele on Udemy.</description>
