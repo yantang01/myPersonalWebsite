@@ -42,4 +42,4 @@ I fell in love with Computer Science due to its powerful ability to change peopl
 
 I am an incoming software developer who understands the business side of things and communicates well with others. I like solving problems, building applications, and getting my hands dirty while learning.
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yantang01) or send me an [email](mailto:yantang3@cmail.carleton.ca) if you would like to connect! I am thrilled to meet new people and learn about your stories.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yantang01) or send me an [email](mailto:yantangcs@gmail.com) if you would like to connect! I am thrilled to meet new people and learn about your stories.
