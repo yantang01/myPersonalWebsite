@@ -32,29 +32,32 @@ cover:
 
 ### My Personal Website
 
-> _HTML, CSS, JavaScript, Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
+_Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
 
-- The website you are looking at right now :)!
+- The website you are looking at right now!
 - It's a clean, fast, and responsive site built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
+- Deployed using [Netlify](https://www.netlify.com/).
 
 ---
 
-### Streamy React App
+### Streamy React Web App
 
-> _React/Redux ([GitHub](https://github.com/yantang01/streams))_
+_React/Redux ([GitHub](https://github.com/yantang01/streams))_
 
 - This project was built during the process of learning [React](https://reactjs.org/).
 - It's a video streaming web application where users can record videos and stream live to other people.
-- Implemented CRUD operations and used [Redux](https://redux.js.org/) to manage states across components.
+- Utilized both class-based and functional React components and developed reusable components to increase development productivity.
+- Fully implemented CRUD operations and used [Redux](https://redux.js.org/) to manage states across components.
 
 ---
 
-### YelpCamp
+### YelpCamp Web App
 
-> _HTML, CSS, JavaScript, Express, Node, MongDB ([Website](https://intense-springs-38584.herokuapp.com/) | [GitHub](https://github.com/yantang01/YelpCamp))_
+_HTML, CSS, JavaScript, Express, Node, MongDB ([Website](https://intense-springs-38584.herokuapp.com/) | [GitHub](https://github.com/yantang01/YelpCamp))_
 
 - This was my first project, which I did after completing the [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on [Udemy](https://www.udemy.com/).
-- Built a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
+- It's a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
+- Technologies used were close to MERN stack except not using React.  
 - I learned a lot by doing this project: HTML/CSS, JS, back-end tools [Node.js](https://nodejs.org/en/)/[Express.js](https://expressjs.com/), NoSQL cloud database [MongoDB Atlas](https://www.mongodb.com/atlas/database), REST, authentication, deploying apps, and so on.
 
 ---
@@ -63,10 +66,10 @@ cover:
 
 ### Search Engine
 
-> _Python ([GitHub](https://github.com/yantang01/search-engine))_
+_Python ([GitHub](https://github.com/yantang01/search-engine))_
 
 - A web crawler and a search engine built with Python.
-- Was able to improve runtime efficiency from 20 minutes to only 1 minute by writing clean and efficient code.
+- I was able to improve runtime efficiency from 20 minutes to only 1 minute by writing clean and efficient code.
 - Implemented PageRank algorithm (used by Google search) in the search function to improve the quality of search result.
 
 ---

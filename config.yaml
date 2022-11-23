@@ -38,7 +38,7 @@ languages:
     profileMode:
       enabled: true
       title: Yan Tang
-      subtitle: Hello, World
+      subtitle: Hello World
       imageUrl: "/images/IMG_6492.jpeg" #图片放在static/img/Q.gif
       imageTitle: Selfie
       imageWidth: 150
@@ -145,7 +145,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/yantang01"
     - name: email
-      url: "mailto:yantang3@cmail.carleton.ca"
+      url: "mailto:yantangcs@gmail.com"
 
   # editPost:
   #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
