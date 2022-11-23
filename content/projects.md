@@ -68,7 +68,7 @@ _HTML, CSS, JavaScript, Express, Node, MongDB ([Website](https://intense-springs
 
 _Python ([GitHub](https://github.com/yantang01/search-engine))_
 
-- A web crawler and a search engine built with Python.
+- A web crawler and a search engine built with Python (100% independently).
 - I was able to improve runtime efficiency from 20 minutes to only 1 minute by writing clean and efficient code.
 - Implemented PageRank algorithm (used by Google search) in the search function to improve the quality of search result.
 
