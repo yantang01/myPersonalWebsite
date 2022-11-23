@@ -34,28 +34,28 @@ cover:
 
 > _HTML, CSS, JavaScript, Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
 
-- The website you are looking at right now!
-- It's a beautiful (at least in my opinion 🙂), clean, fast, and responsive site built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
+- The website you are looking at right now :)!
+- It's a clean, fast, and responsive site built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
 
 ---
 
-### YelpCamp Web App
+### Streamy React App
+
+> _React/Redux ([GitHub](https://github.com/yantang01/streams))_
+
+- This project was built during the process of learning [React](https://reactjs.org/).
+- It's a video streaming web application where users can record videos and stream live to other people.
+- Implemented CRUD operations and used [Redux](https://redux.js.org/) to manage states across components.
+
+---
+
+### YelpCamp
 
 > _HTML, CSS, JavaScript, Express, Node, MongDB ([Website](https://intense-springs-38584.herokuapp.com/) | [GitHub](https://github.com/yantang01/YelpCamp))_
 
-- This is my first project, which I did after completing the [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele on [Udemy](https://www.udemy.com/).
-- We built a full-stack, fully functional CRUD web app where people create campgrounds and share reviews of campgrounds.
-- I learned a lot by doing this project: HTML/CSS ([Bootstrap](https://getbootstrap.com/)/[Semantic UI](https://semantic-ui.com/)), JS, back-end tools [Node.js](https://nodejs.org/en/)/[Express.js](https://expressjs.com/), NoSQL database [MongDB](https://www.mongodb.com/), REST, authentication, deploying apps, and so on.
-
----
-
-### Videos App
-
-> _React ([GitHub](https://github.com/yantang01/videos))_
-
-- This project was built in the process of learning [React](https://reactjs.org/).
-- It's a simple React app where we used YouTube API to fetch videos from YouTube (based on user search term) to our website.
-- The selected/clicked video will also play on the site.
+- This was my first project, which I did after completing the [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on [Udemy](https://www.udemy.com/).
+- Built a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
+- I learned a lot by doing this project: HTML/CSS, JS, back-end tools [Node.js](https://nodejs.org/en/)/[Express.js](https://expressjs.com/), NoSQL cloud database [MongoDB Atlas](https://www.mongodb.com/atlas/database), REST, authentication, deploying apps, and so on.
 
 ---
 
@@ -63,8 +63,10 @@ cover:
 
 ### Search Engine
 
-> _Python ([GitHub]())_
+> _Python ([GitHub](https://github.com/yantang01/search-engine))_
 
-- Coming soon.
+- A web crawler and a search engine built with Python.
+- Was able to improve runtime efficiency from 20 minutes to only 1 minute by writing clean and efficient code.
+- Implemented PageRank algorithm (used by Google search) in the search function to improve the quality of search result.
 
 ---
