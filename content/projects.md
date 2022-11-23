@@ -35,7 +35,7 @@ cover:
 _Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
 
 - The website you are looking at right now!
-- It's a clean, fast, and responsive site built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
+- It's a static site (fast and responsive) built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
 - Deployed using [Netlify](https://www.netlify.com/).
 
 ---
