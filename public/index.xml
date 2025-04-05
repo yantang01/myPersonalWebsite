@@ -13,8 +13,8 @@
       
       <guid>https://yantang.netlify.app/about/</guid>
       <description>Hello, welcome to my corner of the internet!
-I&amp;rsquo;m Yan. I&amp;rsquo;m a third-year student studying Computer Science at Carleton University in Ottawa, and this is not my first degree. My previous degree was a Bachelor of Commerce obtained in China, where I was born and raised.
-When I came to Canada in 2017, I chose to study for an MBA to build fundamental business skills. After that, I had three years of work experience in the Finance/Accounting industry.</description>
+I’m Yan. I graduated with a Computer Science degree from Carleton University in Ottawa, and I’m currently a Software Developer. However, my journey to this point wasn’t linear, and that’s something I’m proud of.
+I started with a Bachelor of Commerce degree in China, where I was born and raised. In 2017, I moved to Canada and pursued an MBA to build fundamental business skills.</description>
     </item>
     
     <item>
@@ -32,9 +32,28 @@ When I came to Canada in 2017, I chose to study for an MBA to build fundamental 
       <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
       
       <guid>https://yantang.netlify.app/projects/</guid>
-      <description>My Personal Website Hugo, Netlify (GitHub)
-The website you are looking at right now! It&amp;rsquo;s a static site (fast and responsive) built using Hugo with PaperMod theme. Deployed using Netlify. Streamy React Web App React/Redux (GitHub)
-This project was built during the process of learning React. It&amp;rsquo;s a video streaming web application where users can record videos and stream live to other people. Utilized both class-based and functional React components and developed reusable components to increase development productivity.</description>
+      <description>Streamy React Web App Technologies: React/Redux, JavaScript, Axios, REST API (GitHub)
+Streamy is a video streaming web application where users can record videos and stream live to other people Utilized both class-based and functional React components and developed reusable components to increase development productivity Fully implemented CRUD operations and used Redux to manage states across components Integrated Google Sign-In using Google&amp;rsquo;s OAuth2 authentication flow Neurological Device Simulator Technologies: C++, Qt, Multi-threading (QThread, QtConcurrent, QFutureWatcher), Observer, MVC (GitHub)</description>
+    </item>
+    
+    <item>
+      <title>Recommendations ❤️</title>
+      <link>https://yantang.netlify.app/recommendations/</link>
+      <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
+      
+      <guid>https://yantang.netlify.app/recommendations/</guid>
+      <description>You can also read on my LinkedIn profile.
+&amp;ldquo;I first met Yan in 2023 when she was a junior majoring in Computer Science and preparing to start her internship at SurveyMonkey. Before she even joined, we exchanged emails where she shared some of the personal projects she had built using Python and React—technologies heavily used at our company. It was clear from the outset that she was already ahead of the curve.</description>
+    </item>
+    
+    <item>
+      <title>Work_Experience 💼</title>
+      <link>https://yantang.netlify.app/work/</link>
+      <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
+      
+      <guid>https://yantang.netlify.app/work/</guid>
+      <description>Software Engineer I @ SurveyMonkey Technologies: React, TypeScript, JavaScript, GraphQL, Apollo Client, Python, Pyramid, Jinja/Mustache, GitHub Actions, GitHub Releases, Argo CD
+Led the continued development of SurveyMonkey’s collector list page, following its initial migration during my internship, and successfully launched it to production Developed and deployed two additional key features for SurveyMonkey&amp;rsquo;s Collect Experience, enhancing product functionality and user experience for thousands of users Optimized the GraphQL API layer, refining existing queries, reducing over-fetching, and supporting new frontend use cases across teams Wrote comprehensive unit tests using Jest and React Testing Library to improve code reliability, catch regressions early, and maintain frontend stability Maintained and resolved critical bugs in the legacy Python web app (Pyramid, Jinja, Mustache), ensuring stability in production environments Took on release management and on-call responsibilities within one month of onboarding, ensuring smooth deployments using GitHub Actions, GitHub Releases, and Argo CD Collaborated closely with designers, PMs, and QA teams to streamline workflows across three testing environments and production, enabling faster iterations and timely feature releases Monitored system performance and production health using Splunk queries, proactively identifying and resolving issues across environments Contributed to a cross-functional project spanning multiple teams, leading to a successful live production launch for enterprise users; presented the project in an engineering-wide demo Mentored an intern, providing guidance on code reviews, debugging, and architectural decisions, ensuring high-quality contributions Reduced technical debt by refactoring folder structures, modernizing local dev environments, and improving documentation across both CoreWeb and the Python web app Software Engineer Intern @ SurveyMonkey Technologies: React, TypeScript, JavaScript, GraphQL, Apollo Client, Jest, React Testing Library</description>
     </item>
     
     
