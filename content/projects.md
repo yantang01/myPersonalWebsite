@@ -20,56 +20,86 @@ hidemeta: true # hide information (author, create date, etc.)
 disableShare: true # do not show share button
 showbreadcrumbs: true # show current path
 cover:
-  image: "/images/yellow.jpeg"
-  caption: ""
-  alt: ""
-  relative: false
+    image: "/images/yellow.jpeg"
+    caption: ""
+    alt: ""
+    relative: false
 ---
-
----
-
-## Side Projects 💫
-
-### My Personal Website
-
-_Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
-
-- The website you are looking at right now!
-- It's a static site (fast and responsive) built using [Hugo](https://gohugo.io/) with [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
-- Deployed using [Netlify](https://www.netlify.com/).
 
 ---
 
 ### Streamy React Web App
 
-_React/Redux ([GitHub](https://github.com/yantang01/streams))_
+_React/Redux, JavaScript, Axios, REST API ([GitHub](https://github.com/yantang01/streams))_
 
-- This project was built during the process of learning [React](https://reactjs.org/).
-- It's a video streaming web application where users can record videos and stream live to other people.
-- Utilized both class-based and functional React components and developed reusable components to increase development productivity.
-- Fully implemented CRUD operations and used [Redux](https://redux.js.org/) to manage states across components.
+-   This project was built during the process of learning [React](https://reactjs.org/).
+-   It's a video streaming web application where users can record videos and stream live to other people.
+-   Utilized both class-based and functional React components and developed reusable components to increase development productivity.
+-   Fully implemented CRUD operations and used [Redux](https://redux.js.org/) to manage states across components.
 
 ---
 
 ### YelpCamp Web App
 
-_HTML, CSS, JavaScript, Express, Node, MongDB ([Website](https://intense-springs-38584.herokuapp.com/) | [GitHub](https://github.com/yantang01/YelpCamp))_
+_HTML, CSS, JavaScript, Express.js, Node.js, MongDB, Heroku ([GitHub](https://github.com/yantang01/YelpCamp))_
 
-- This was my first project, which I did after completing the [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on [Udemy](https://www.udemy.com/).
-- It's a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
-- Technologies used were close to MERN stack except not using React.  
-- I learned a lot by doing this project: HTML/CSS, JS, back-end tools [Node.js](https://nodejs.org/en/)/[Express.js](https://expressjs.com/), NoSQL cloud database [MongoDB Atlas](https://www.mongodb.com/atlas/database), REST, authentication, deploying apps, and so on.
+-   This was my first project, which I did after completing the Web Developer Bootcamp on Udemy.
+-   It's a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
+-   Technologies used were close to MERN stack except not using React.
+-   I learned a lot by doing this project: HTML/CSS, JS, back-end tools Node.js/Express.js, NoSQL cloud database MongoDB Atlas, REST, authentication, deploying apps, and so on.
 
 ---
 
-## Course Projects 📚
-
 ### Search Engine
 
-_Python ([GitHub](https://github.com/yantang01/search-engine))_
+![Screenshot of search engine ui](/public/images/java_search_engine.png)
 
-- A web crawler and a search engine built with Python (100% independently).
-- I was able to improve runtime efficiency from 20 minutes to only 1 minute by writing clean and efficient code.
-- Implemented PageRank algorithm (used by Google search) in the search function to improve the quality of search result.
+_Python, Java, JavaFX, urllib ([GitHub](https://github.com/yantang01/search-engine))_
+
+-   A web crawler and a search engine built with Python (100% independently).
+-   I was able to improve runtime efficiency from 25 times to 7ms per query by identifying bottlenecks with cProfile and using dictionary-based data storage.
+-   Implemented the PageRank Algorithm used by Google to boost the reliability of search results
+-   Applied OOP principles and re-designed Search Engine with a GUI using Java and JavaFX
+
+---
+
+### Ghost Hunting Game
+
+_C, Linux, Valgrind, Makefile ([GitHub](https://github.com/yantang01/hunter-game))_
+
+-   Developed a multi-threaded C program in the Ubuntu Linux environment using the pthread library and semaphores; simulated complex interactions between multiple ghosts and ghost hunters within a virtual building
+-   Dynamically allocated memory by using various data structures, including arrays and linked lists; ensured robust memory management practices to prevent memory leaks and maintain program stability
+-   Debugged and optimized the program using GDB, ensuring a stable and error-free gameplay experience for players
+
+---
+
+### Neurological Device Simulator
+
+_C++, Qt, Multi-threading (QThread, QtConcurrent, QFutureWatcher), Observer, MVC ([GitHub](https://github.com/yantang01/NeuroDeviceSimulator-main))_
+
+-   Constructed a Neuro Device Simulator for brainwave generation, analysis, and neurofeedback treatment using C++ and Qt
+-   Applied MVC and Observer patterns using Qt signals and slots, enabling real-time UI updates as sessions progressed
+-   Implemented multi-threading with QThread for device operations, allowing users to interact with the GUI during active sessions
+-   Utilized QtConcurrent and QFutureWatcher for intensive data processing, ensuring a non-blocking user experience
+
+---
+
+### Factify
+
+_JavaScript, Node.js, Express.js, Handlebars, SQLite, HTML, CSS ([GitHub](https://github.com/yantang01/Factify))_
+
+-   Developed a full-stack web application that fetches and displays random facts using a public API, with support for user-submitted facts.
+-   Implemented server-side rendering using Handlebars.js to dynamically generate HTML pages based on API data and user input.
+-   Built RESTful routes using Express.js and managed persistent data storage with SQLite for submitted facts.
+
+---
+
+### My Personal Website
+
+_Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
+
+-   The website you are looking at right now!
+-   It's a static site (fast and responsive) built using [Hugo](https://gohugo.io/) with PaperMod theme.
+-   Deployed using Netlify.
 
 ---

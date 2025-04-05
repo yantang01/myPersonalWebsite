@@ -32,9 +32,9 @@ When I came to Canada in 2017, I chose to study for an MBA to build fundamental 
       <pubDate>Thu, 15 Sep 2022 13:55:32 -0400</pubDate>
       
       <guid>https://yantang.netlify.app/projects/</guid>
-      <description>Side Projects 💫 My Personal Website HTML, CSS, JavaScript, Hugo, Netlify (GitHub)
-The website you are looking at right now! It&amp;rsquo;s a beautiful (at least in my opinion 🙂), clean, fast, and responsive site built using Hugo with PaperMod theme. YelpCamp Web App HTML, CSS, JavaScript, Express, Node, MongDB (Website | GitHub)
-This is my first project, which I did after completing the Web Developer Bootcamp by Colt Steele on Udemy.</description>
+      <description>My Personal Website Hugo, Netlify (GitHub)
+The website you are looking at right now! It&amp;rsquo;s a static site (fast and responsive) built using Hugo with PaperMod theme. Deployed using Netlify. Streamy React Web App React/Redux (GitHub)
+This project was built during the process of learning React. It&amp;rsquo;s a video streaming web application where users can record videos and stream live to other people. Utilized both class-based and functional React components and developed reusable components to increase development productivity.</description>
     </item>
     
     
