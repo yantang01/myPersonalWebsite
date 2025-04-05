@@ -20,10 +20,10 @@ hidemeta: true # hide information (author, create date, etc.)
 disableShare: true # do not show share button
 showbreadcrumbs: true # show current path
 cover:
-  image: "/images/spaceman.jpeg"
-  caption: ""
-  alt: "spaceman image"
-  relative: false
+    image: "/images/spaceman.jpeg"
+    caption: ""
+    alt: "spaceman image"
+    relative: false
 ---
 
 ---
@@ -34,12 +34,14 @@ cover:
 
 Hello, welcome to my corner of the internet!
 
-I'm Yan. I'm a third-year student studying Computer Science at [Carleton University](https://carleton.ca/) in Ottawa, and this is not my first degree. My previous degree was a Bachelor of Commerce obtained in China, where I was born and raised.
+I’m Yan. I graduated with a Computer Science degree from Carleton University in Ottawa, and I’m currently a Software Developer. However, my journey to this point wasn’t linear, and that’s something I’m proud of.
 
-When I came to Canada in 2017, I chose to study for an [MBA](https://sprott.carleton.ca/mba) to build fundamental business skills. After that, I had three years of work experience in the Finance/Accounting industry. My previous role before transitioning into CS was as a Senior Accountant with an international non-profit [Digital Opportunity Trust](https://www.dotrust.org/), where we focused on empowering youth to become innovators and leaders by applying digital solutions that have a positive impact in their communities.
+I started with a Bachelor of Commerce degree in China, where I was born and raised. In 2017, I moved to Canada and pursued an MBA to build fundamental business skills. Afterward, I worked in the Finance/Accounting industry for three years. My last role was as a Senior Accountant at Digital Opportunity Trust, a non-profit focused on empowering youth through digital solutions.
 
-I fell in love with Computer Science due to its powerful ability to change people’s lives. I am an efficiency nerd who is always looking for efficiencies that can be gained at work. I love using technological tools to increase productivity and improve my workflow. When I turned a 2-hour assignment into only 5 minutes using programming knowledge I taught myself during my spare time, I felt so excited and gained an immense sense of achievement. However, I realized that was not enough for me. I wanted to get myself fully involved, and decided to transition into CS. Here I Am.
+Despite my success in finance, I discovered my passion for Computer Science because of its potential to change lives. I’m an efficiency nerd, always looking for ways to streamline work processes. The moment I turned a 2-hour task into a 5-minute one using programming I taught myself, I realized that this was where I truly belonged. I made the decision to pursue my passion full-time, and here I am today, a software developer with a strong business background.
 
-I am an incoming software developer who understands the business side of things and communicates well with others. I like solving problems, building applications, and getting my hands dirty while learning.
+I love solving problems, building applications, and continuously learning. As a developer, I not only understand the technical side but also the business side, which helps me communicate effectively with cross-functional teams.
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yantang01) or send me an [email](mailto:yantang0727@gmail.com) if you would like to connect! I am thrilled to meet new people and learn about your stories.
+Feel free to check out my [work experience](/work/) to see what I’ve been up to as a Software Developer. If you’re interested in hearing what others have to say about my work, head over to my [LinkedIn recommendations](/recommendations/).
+
+I’m always excited to meet new people and learn about your experiences. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yantang01) or send me an [email](mailto:yantangcs@gmail.com)!
