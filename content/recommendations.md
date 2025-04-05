@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn_Recommendations ❤️"
+title: "Recommendations ❤️"
 date: 2022-09-15T13:55:32-04:00
 lastmod: 2022-09-15T13:55:32-04:00
 author: ["Yan"]

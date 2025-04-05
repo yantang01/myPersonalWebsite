@@ -42,6 +42,6 @@ Despite my success in finance, I discovered my passion for Computer Science beca
 
 I love solving problems, building applications, and continuously learning. As a developer, I not only understand the technical side but also the business side, which helps me communicate effectively with cross-functional teams.
 
-Feel free to check out my [work experience](/work/) to see what I’ve been up to as a Software Developer. If you’re interested in hearing what others have to say about my work, head over to my [LinkedIn recommendations](/recommendations/).
+Feel free to check out my [work experience](/work/) to see what I’ve been up to as a Software Developer. If you’re interested in hearing what others have to say about my work, head over to my [recommendations](/recommendations/).
 
 I’m always excited to meet new people and learn about your experiences. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yantang01) or send me an [email](mailto:yantangcs@gmail.com)!

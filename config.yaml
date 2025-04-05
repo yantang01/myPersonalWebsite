@@ -52,7 +52,7 @@ languages:
                   url: projects
                 - name: Resume
                   url: resume
-                - name: LinkedIn_Recommendations
+                - name: Recommendations
                   url: recommendations
         menu:
             main:
@@ -73,7 +73,7 @@ languages:
                   url: resume
                   weight: 40
                 - identifier: Recommendation
-                  name: LinkedIn_Recommendations
+                  name: Recommendations
                   url: recommendations
                   weight: 50
                 # - identifier: Blogs
