@@ -20,7 +20,7 @@ hidemeta: true # hide information (author, create date, etc.)
 disableShare: true # do not show share button
 showbreadcrumbs: true # show current path
 cover:
-    image: "/images/yellow.jpeg"
+    image: "/images/test1.jpeg"
     caption: ""
     alt: ""
     relative: false
