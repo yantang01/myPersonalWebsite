@@ -46,14 +46,14 @@ languages:
             buttons:
                 - name: About_Me
                   url: about
-                - name: Work_Experience
-                  url: work
-                - name: Projects
-                  url: projects
-                - name: Resume
-                  url: resume
-                - name: Recommendations
-                  url: recommendations
+                # - name: Work_Experience
+                #   url: work
+                # - name: Projects
+                #   url: projects
+                # - name: Resume
+                #   url: resume
+                # - name: Recommendations
+                #   url: recommendations
         menu:
             main:
                 - identifier: About
@@ -80,10 +80,10 @@ languages:
                 #   name: Blogs
                 #   url: blogs
                 #   weight: 40
-                # - identifier: Search
-                #   name: Search
-                #   url: search
-                #   weight: 50
+                - identifier: Search
+                  name: 🔍
+                  url: search
+                  weight: 60
                 # - identifier: home
                 #   name: 🏠主页
                 #   url: /
