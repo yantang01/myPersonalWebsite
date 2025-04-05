@@ -38,7 +38,7 @@ languages:
         profileMode:
             enabled: true
             title: Yan Tang
-            subtitle: Hello World
+            subtitle: Hello, World
             imageUrl: "/images/IMG_6492.jpeg" #图片放在static/img/Q.gif
             imageTitle: Selfie
             imageWidth: 150

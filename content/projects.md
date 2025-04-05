@@ -30,18 +30,18 @@ cover:
 
 ### Streamy React Web App
 
-_React/Redux, JavaScript, Axios, REST API ([GitHub](https://github.com/yantang01/streams))_
+Technologies: React/Redux, JavaScript, Axios, REST API ([GitHub](https://github.com/yantang01/streams))
 
--   This project was built during the process of learning React.
--   It's a video streaming web application where users can record videos and stream live to other people.
--   Utilized both class-based and functional React components and developed reusable components to increase development productivity.
--   Fully implemented CRUD operations and used Redux to manage states across components.
+-   Streamy is a video streaming web application where users can record videos and stream live to other people
+-   Utilized both class-based and functional React components and developed reusable components to increase development productivity
+-   Fully implemented CRUD operations and used Redux to manage states across components
+-   Integrated Google Sign-In using Google's OAuth2 authentication flow
 
 ---
 
 ### Neurological Device Simulator
 
-_C++, Qt, Multi-threading (QThread, QtConcurrent, QFutureWatcher), Observer, MVC ([GitHub](https://github.com/yantang01/NeuroDeviceSimulator-main))_
+Technologies: C++, Qt, Multi-threading (QThread, QtConcurrent, QFutureWatcher), Observer, MVC ([GitHub](https://github.com/yantang01/NeuroDeviceSimulator-main))
 
 -   Constructed a Neuro Device Simulator for brainwave generation, analysis, and neurofeedback treatment using C++ and Qt
 -   Applied MVC and Observer patterns using Qt signals and slots, enabling real-time UI updates as sessions progressed
@@ -52,17 +52,17 @@ _C++, Qt, Multi-threading (QThread, QtConcurrent, QFutureWatcher), Observer, MVC
 
 ### Factify
 
-_JavaScript, Node.js, Express.js, Handlebars, SQLite, HTML, CSS ([GitHub](https://github.com/yantang01/Factify))_
+Technologies: JavaScript, Node.js, Express.js, Handlebars, SQLite, HTML, CSS ([GitHub](https://github.com/yantang01/Factify))
 
--   Developed a full-stack web application that fetches and displays random facts using a public API, with support for user-submitted facts.
--   Implemented server-side rendering using Handlebars.js to dynamically generate HTML pages based on API data and user input.
--   Built RESTful routes using Express.js and managed persistent data storage with SQLite for submitted facts.
+-   Developed a full-stack web application that fetches and displays random facts using a public API, with support for user-submitted facts
+-   Implemented server-side rendering using Handlebars.js to dynamically generate HTML pages based on API data and user input
+-   Built RESTful routes using Express.js and managed persistent data storage with SQLite for submitted facts
 
 ---
 
 ### Ghost Hunting Game
 
-_C, Linux, Valgrind, Makefile ([GitHub](https://github.com/yantang01/hunter-game))_
+Technologies: C, Linux, Valgrind, Makefile ([GitHub](https://github.com/yantang01/hunter-game))
 
 -   Developed a multi-threaded C program in the Ubuntu Linux environment using the pthread library and semaphores; simulated complex interactions between multiple ghosts and ghost hunters within a virtual building
 -   Dynamically allocated memory by using various data structures, including arrays and linked lists; ensured robust memory management practices to prevent memory leaks and maintain program stability
@@ -72,10 +72,10 @@ _C, Linux, Valgrind, Makefile ([GitHub](https://github.com/yantang01/hunter-game
 
 ### Search Engine
 
-_Python, Java, JavaFX, urllib ([GitHub](https://github.com/yantang01/search-engine))_
+Technologies: Python, Java, JavaFX, urllib ([GitHub](https://github.com/yantang01/search-engine))
 
--   A web crawler and a search engine built with Python (100% independently).
--   I was able to improve runtime efficiency from 25 times to 7ms per query by identifying bottlenecks with cProfile and using dictionary-based data storage.
+-   A web crawler and a search engine built with Python (100% independently)
+-   I was able to improve runtime efficiency from 25 times to 7ms per query by identifying bottlenecks with cProfile and using dictionary-based data storage
 -   Implemented the PageRank Algorithm used by Google to boost the reliability of search results
 -   Applied OOP principles and re-designed Search Engine with a GUI using Java and JavaFX
 
@@ -83,21 +83,21 @@ _Python, Java, JavaFX, urllib ([GitHub](https://github.com/yantang01/search-engi
 
 ### YelpCamp Web App
 
-_HTML, CSS, JavaScript, Express.js, Node.js, MongDB, Heroku ([GitHub](https://github.com/yantang01/YelpCamp))_
+Technologies: HTML, CSS, JavaScript, Express.js, Node.js, MongDB, Heroku ([GitHub](https://github.com/yantang01/YelpCamp))
 
--   This was my first project, which I did after completing the Web Developer Bootcamp on Udemy.
--   It's a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds.
--   Technologies used were close to MERN stack except not using React.
--   I learned a lot by doing this project: HTML/CSS, JS, back-end tools Node.js/Express.js, NoSQL cloud database MongoDB Atlas, REST, authentication, deploying apps, and so on.
+-   This was my first project, which I did after completing the Web Developer Bootcamp on Udemy
+-   It's a full-stack, JavaScript CRUD web app where people browse/post campgrounds and share reviews of campgrounds
+-   Technologies used were close to MERN stack except not using React
+-   I learned a lot by doing this project: HTML/CSS, JS, back-end tools Node.js/Express.js, NoSQL cloud database MongoDB Atlas, REST, authentication, deploying apps, and so on
 
 ---
 
 ### My Personal Website
 
-_Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))_
+Technologies: Hugo, Netlify ([GitHub](https://github.com/yantang01/myPersonalWebsite))
 
--   The website you are looking at right now!
--   It's a static site (fast and responsive) built using [Hugo](https://gohugo.io/) with PaperMod theme.
--   Deployed using Netlify.
+-   The website you are looking at right now
+-   It's a static site built using [Hugo](https://gohugo.io/) with PaperMod theme
+-   Deployed using Netlify
 
 ---
