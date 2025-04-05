@@ -52,8 +52,6 @@ _HTML, CSS, JavaScript, Express.js, Node.js, MongDB, Heroku ([GitHub](https://gi
 
 ### Search Engine
 
-![Screenshot of search engine ui](/public/images/java_search_engine.png)
-
 _Python, Java, JavaFX, urllib ([GitHub](https://github.com/yantang01/search-engine))_
 
 -   A web crawler and a search engine built with Python (100% independently).
