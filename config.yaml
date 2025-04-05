@@ -48,7 +48,7 @@ languages:
                   url: about
                 - name: Work_Experience
                   url: work
-                - name: Project
+                - name: Projects
                   url: projects
                 - name: Resume
                   url: resume
@@ -65,7 +65,7 @@ languages:
                   url: work
                   weight: 20
                 - identifier: Projects
-                  name: Project
+                  name: Projects
                   url: projects
                   weight: 30
                 - identifier: Resume
