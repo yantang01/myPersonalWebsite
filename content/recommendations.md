@@ -26,7 +26,7 @@ cover:
     relative: false
 ---
 
-You can also read on [my LinkedIn profile](https://www.linkedin.com/in/yantang01/).
+See what others have to say about my work. You can also read on [my LinkedIn profile](https://www.linkedin.com/in/yantang01/).
 
 ---
 
